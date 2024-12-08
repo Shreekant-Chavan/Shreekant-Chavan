@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shreekant-Chavan
 - 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript & React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me shreekantchavanfycs@gmail.com
 
 <!---
 Shreekant-Chavan/Shreekant-Chavan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
